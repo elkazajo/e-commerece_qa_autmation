@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="From_L1_to_L2" parallel="none" verbose="3">
+    <test name="Selenium">
+        <classes>
+            <class name="Test"/>
+        </classes>
+    </test>
+</suite>
